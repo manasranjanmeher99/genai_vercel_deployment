@@ -110,7 +110,7 @@ Screenshots demonstrating the application are stored in the `screenshots/` direc
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/manasranjanmeher99/genai_vercel_deployment
 cd genai_vercel_deployment/genai_deployment
 ```
 
@@ -127,7 +127,7 @@ Create a `.env` or `.env.local` file as required by the application and add the 
 Example:
 
 ```env
-AI_API_KEY=your_api_key_here
+GEMINI_API_KEY=your_api_key_here
 ```
 
 **Do not commit API keys or other secrets to GitHub.**
@@ -238,7 +238,3 @@ The separation of `backend/` and `frontend/` makes the project easier to:
 ## 👨‍💻 Author
 
 **Manas Ranjan Meher**
-
-## 📄 License
-
-Add the appropriate license for the project.
