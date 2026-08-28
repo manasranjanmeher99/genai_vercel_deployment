@@ -54,7 +54,7 @@ saas/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/manasranjanmeher99/genai_vercel_deployment.git
 cd genai_vercel_deployment/saas
 ```
 
@@ -129,7 +129,7 @@ If the application requires API keys or other secrets, store them as environment
 For local development, you can use a `.env` file:
 
 ```env
-API_KEY=your_api_key
+GEMINI_API_KEY=your_api_key
 ```
 
 Make sure `.env` is included in `.gitignore`.
