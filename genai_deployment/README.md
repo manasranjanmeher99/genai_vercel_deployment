@@ -98,7 +98,7 @@ Screenshots demonstrating the application are stored in the `screenshots/` direc
 
 ![Chat Interface](screenshots/chat.png)
 
-### AI Result
+### Production Deployment
 
 ![Production Deployment](screenshots/deployment.png)
 
