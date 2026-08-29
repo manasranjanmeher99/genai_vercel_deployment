@@ -1,1 +1,60 @@
-.vercel
+# Python cache
+
+**pycache**/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+
+venv/
+.venv/
+env/
+.env
+
+# Environment variables / secrets
+
+.env.*
+!.env.example
+
+# IDE / Editor files
+
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# Testing / Coverage
+
+.pytest_cache/
+.coverage
+htmlcov/
+coverage.xml
+
+# Build / Distribution
+
+build/
+dist/
+*.egg-info/
+
+# Jupyter Notebook
+
+.ipynb_checkpoints/
+
+# Vercel
+
+.vercel/
+
+# Temporary files
+
+*.tmp
+*.temp
+*.bak
