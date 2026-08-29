@@ -18,7 +18,6 @@ genai_deployment/
 ├── screenshots/
 │   ├── home.png                   # Application home screen
 │   ├── chat.png                   # GenAI chat/interface screen
-│   ├── result.png                 # AI response/result screen
 │   └── deployment.png             # Deployment/application screen
 │
 ├── .gitignore                     # Git ignored files
@@ -101,9 +100,8 @@ Screenshots demonstrating the application are stored in the `screenshots/` direc
 
 ### AI Result
 
-![AI Result](screenshots/result.png)
+![AI Result](screenshots/deployment.png)
 
-> Update the image filenames above if your actual screenshot names are different.
 
 ## ⚙️ Installation
 
