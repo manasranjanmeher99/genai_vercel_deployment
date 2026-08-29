@@ -100,7 +100,7 @@ Screenshots demonstrating the application are stored in the `screenshots/` direc
 
 ### AI Result
 
-![AI Result](screenshots/deployment.png)
+![Production Deployment](screenshots/deployment.png)
 
 
 ## ⚙️ Installation
