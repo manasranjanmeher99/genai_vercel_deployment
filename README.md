@@ -25,7 +25,7 @@ genai_vercel_deployment/
 │   │   ├── app.js
 │   │   ├── index.html
 │   │   └── style.css
-│   ├── xcreenshots/
+│   ├── screenshots/
 │   │
 │   ├── requirements.txt
 │   └── vercel.json
