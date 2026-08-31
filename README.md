@@ -34,6 +34,8 @@ genai_vercel_deployment/
 ├── saas/
 │   ├── app.py
 │   ├── requirements.txt
+│   ├── README.md
+│   ├── .gitignore
 │   └── vercel.json
 │
 ├── .gitignore
