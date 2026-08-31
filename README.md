@@ -29,6 +29,8 @@ genai_vercel_deployment/
 │   │   └── ...
 │   │
 │   ├── requirements.txt
+│   ├── .gitignore 
+│   ├── README.md
 │   └── vercel.json
 │
 ├── saas/
